@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yanademeshko.github.io/nuclear_arms_control/sitemap.xml
